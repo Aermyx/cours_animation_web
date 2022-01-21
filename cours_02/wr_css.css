@@ -1,0 +1,50 @@
+/*span*/
+span{
+    color: red;
+}
+
+/*P*/
+p{
+    color: green;
+}
+
+/*h1*/
+h1{
+   color: blue; 
+}
+
+/*p + h1 + span*/
+p, h1, span{
+    color:grey;
+}
+
+/*span dans P*/
+p span{
+    color:aquamarine;
+}
+
+/*Tous(universal) dans le body*/
+body *{
+    color:black;
+}
+
+/*Classe: exemple*/
+.exemple{
+    color:chocolate;
+}
+
+/*ID: monId*/
+#monId{
+    font-size:large;
+}
+
+.classe_01{
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    border: 5px solid deepskyblue;
+}
+
+.classe_01 p{
+    color:rgb(152, 248, 152);
+}
