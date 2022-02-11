@@ -66,18 +66,85 @@
 ## Semaine 3
 ### Cours 05
 - HTML
-    - 
+    - Header
+    - Section
+    - Footer
 - CSS
-    - 
+    - Animation-Fill-Mode
+    - Animation-Delay
+    - Display
+        - Block
+        - Inline
+        - Inline-block
+        - Flex
+        - None
+    - Justify-content
 ### Cours 06
-- HTML
-    - 
 - CSS
-    - 
+    - Align-items
+    - Flex-direction
+    - Align-self
+    - Flex-basis
+    - Flex-wrap
+    - Order
 ---
 ## Semaine 4
 ### Cours 07
+- JS
+    - Var / Let / Const
+    - String
+    - Number
+    - Function
+    - Query.Selector()
+    - Combiné des valeurs
+    - Opérateurs
+    - Opérateurs de comparaison
+    - Console.Log()
+    - addEventListener
+        - click
+        - onclick
+        - mousedown
+        - mouseup
+        - mouseenter
+        - mousemove
+        - mouseout
+        - keydown
+        - keyup
+        - load
+        - scroll
+        - resize
 ### Cours 08
+- HTML
+    - Audio
+    - Vidéo
+- JS
+    - classList
+        - add
+        - remove
+        - contains
+        - toggle
+    - className
+    - Style CSS dans JS (.style)
+    - InnerText / innerHTML
+    - addEventListener avec les animation CSS
+        - animationend
+        - animationstart
+        - animationiteration
+        - animationcancel
+    - Vidéo / Audio
+        - play()
+        - pause()
+        - paused
+        - currentTime
+        - duration
+        - playbackRate
+        - volume
+    - addEventListener
+        - canplay
+        - pause
+        - play
+        - timeupdate
+        - ended
 ---
 ## Semaine 5
 ### Cours 09
