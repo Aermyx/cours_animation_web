@@ -1,3 +1,11 @@
-body{
+.page_accueil{
+    background-color: #91FBEB;
+}
 
+.page_galerie{
+    background-color: #dbfb91;
+}
+
+header{
+    background-image: url("../img/rouge_bleu_will.jpg");
 }
